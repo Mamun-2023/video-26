@@ -1,0 +1,15 @@
+.box {
+  width: 45vw;
+  height: 65vh;
+  border: 3px solid goldenrod;
+  /* overflow:scroll;
+} */
+  /* overflow: auto;} */
+  /* overflow: visible; */
+  /* white-space: nowrap;
+  text-overflow: ellipsis; */
+  /* overflow: hidden; */
+  /* overflow: clip; */
+  /* overflow-x: hidden; */
+  overflow: auto;
+}
